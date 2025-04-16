@@ -1,6 +1,6 @@
 ### Hey there, I'm Evan 👋
 
-I'm a 21-years-old software engineering student @ [42 Nice](https://42nice.fr/) and a co-founder & developer @ [Propel](https://propel.sh/) – a cloud platform built for the modern developer
+I'm a 22-years-old software engineering student @ [42 Nice](https://42nice.fr/) and a co-founder & developer @ [Propel](https://propel.sh/) – a cloud platform built for the modern developer
 
 ## 🌱 Experience
 I'm a self-taught Software Engineer and Systems Administrator, but I break into many different fields and I’m fairly knowledgeable in most things surrounding servers, networking, and software. Making tools and services that make lives easier or better in some way is what I love to do.
