@@ -1,17 +1,16 @@
-### Hey there, I'm Evan 👋
+# 👋 Hi, I'm Evan
 
-I'm a 22-years-old software engineering student @ [42 Nice](https://42nice.fr/) and a co-founder & developer @ [Propel](https://propel.sh/) – a cloud platform built for the modern developer
+I'm a 22-year-old self-taught software engineer and 42 Nice student.  
+Started coding Java plugins for Minecraft servers at 12 — now I focus on scalable, resilient systems.
 
-## 🌱 Experience
-I'm a self-taught Software Engineer and Systems Administrator, but I break into many different fields and I’m fairly knowledgeable in most things surrounding servers, networking, and software. Making tools and services that make lives easier or better in some way is what I love to do.
+- **Current:** Software Engineer @ [Amadeus](https://amadeus.com/) (travel-tech, core systems)
+- **Previously:**
+  - Co-founder @ Qomro (container platform, compute infra/orchestrator)
+  - Contractor @ Discord (moderation tools for large communities)
 
-My Stack
+**Skills:** Java, Go, Python, C, TypeScript, Kubernetes, Docker, Cloud (GCP/AWS), distributed systems
 
-- [React](https://reactjs.org/) – Used for developing UI.
-- [Go](https://go.dev/) – Primarily used for developing socket services, APIs and distribution at scale, initially learned to replace my C/C++ usage.
-- [TypeScript/Node](https://nodejs.org/en/) or [Python](https://python.org) – Used for developing misc services that don't need to be in Go.
+I also operate a stupid-big IPv4 /23 block (23.169.88.0/23) and announce it through [AS19879](https://bgp.tools/as/19879) as a way to learn and experiment with networking.
+If you're interested in having a small block routed to you for a cool project, feel free to reach out at me@evan.sh
 
-Currently learning
-
-- [Elixir](https://elixir-lang.org/) – Mostly for it's world-class concurrency and scalability as well as it's "let it crash" philosophy.
-- [Rust](https://www.rust-lang.org/) – So I can flex it.
+[LinkedIn](https://linkedin.com/in/evansh) • [Twitter/X](https://twitter.com/evandotsh) • [More about me](https://evan.sh)
