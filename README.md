@@ -8,7 +8,8 @@ Started coding Java plugins for Minecraft servers at 12 — now I focus on scala
   - Co-founder @ Qomro (container platform, compute infra/orchestrator)
   - Contractor @ Discord (moderation tools for large communities)
 
-**Skills:** Gleam, Go, Python, C, TypeScript, Kubernetes, Docker, Cloud (GCP/AWS), distributed systems
+**Skills:** Gleam, Go, Python, C, TypeScript, Kubernetes, Docker, Cloud (GCP/AWS), distributed systems \
+**Published CVEs:** [CVE-2026-33353](https://osv.dev/vulnerability/CVE-2026-33353)
 
 I also operate a stupid-big IPv4 /23 block (23.169.88.0/23) and announce it through [AS19879](https://bgp.tools/as/19879) as a way to learn and experiment with networking.
 If you're interested in having a small block routed to you for a cool project, feel free to reach out at noc@evan.sh
