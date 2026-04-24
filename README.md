@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Evan
 
-I'm a 22-year-old self-taught software engineer and 42 Nice student.  
+I'm a 23-year-old self-taught software engineer and 42 Nice student.  
 Started coding Java plugins for Minecraft servers at 12 — now I focus on scalable, resilient systems.
 
 - **Current:** Software Engineer @ [Amadeus](https://amadeus.com/) (travel-tech, core systems)
